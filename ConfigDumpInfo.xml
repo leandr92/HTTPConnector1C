@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<ConfigDumpInfo xmlns="http://v8.1c.ru/8.3/xcf/dumpinfo" xmlns:xen="http://v8.1c.ru/8.3/xcf/enums" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" format="Hierarchical" version="2.9.1">
+	<ConfigVersions>
+		<Metadata name="CommonModule.HTTPConnector" id="b410e6fc-2af6-4b78-8dde-12f5e259926c" configVersion="aeaaa2cf94aa894f842c2c01591c5caf00000000"/>
+		<Metadata name="CommonModule.HTTPConnector.Module" id="b410e6fc-2af6-4b78-8dde-12f5e259926c.0" configVersion="105d5b0be0507647848b8aac4066a45800000000"/>
+		<Metadata name="Configuration.Коннектор" id="5eb9462b-b393-47be-933f-eee461b0776c" configVersion="135425561686f844abf822e74f8db64700000000"/>
+		<Metadata name="Configuration.Коннектор.HomePageWorkArea" id="03d4b56f-4cda-4cb3-b2bf-1bf1ceb60c1f.8" configVersion="017e13a976cded45bde4e2e12070896200000000"/>
+		<Metadata name="DataProcessor.Tests" id="20688fe7-fb76-4841-82f1-69e0fc21e4d5" configVersion="393655146885814c91740b4f6c9dfc1e00000000">
+			<Metadata name="DataProcessor.Tests.Attribute.Region" id="3c8913f5-f8c1-4db2-ba1e-474c527e1e64"/>
+			<Metadata name="DataProcessor.Tests.Attribute.Login" id="405017db-c167-4abd-a364-915a8e50be0f"/>
+			<Metadata name="DataProcessor.Tests.Attribute.ProxyPort" id="522cd04b-e8e9-4781-b59e-e4dfc3968042"/>
+			<Metadata name="DataProcessor.Tests.Attribute.TestingRepeats" id="5d607937-2d04-4ff3-b7b6-321b542d93d8"/>
+			<Metadata name="DataProcessor.Tests.Attribute.ProxyServer" id="77acbf78-dd8f-49e7-babb-6b6738a2d29c"/>
+			<Metadata name="DataProcessor.Tests.Attribute.AccessKeyID" id="7b9ca888-a35e-4a72-8683-878dec6491d9"/>
+			<Metadata name="DataProcessor.Tests.Attribute.Queue" id="98dcf63b-5670-42dd-9095-95026b07b4cf"/>
+			<Metadata name="DataProcessor.Tests.Attribute.TestAuthenticationAWS4_HMAC_SHA256" id="9df47f5e-05fc-44f9-95f5-4bd41a64548c"/>
+			<Metadata name="DataProcessor.Tests.Attribute.ProxyConnectionTesting" id="bc78802e-7df5-4ecd-ac11-cfd5db1a3626"/>
+			<Metadata name="DataProcessor.Tests.Attribute.TestGettingListReleasesIn1CWebsite" id="c3e490e6-cede-4859-b915-e5b4965f2f9b"/>
+			<Metadata name="DataProcessor.Tests.Attribute.Password" id="cac557df-1b23-4737-bd0a-d2a9a7405a0e"/>
+			<Metadata name="DataProcessor.Tests.Attribute.SecretKey" id="d38084ae-72a0-47f8-b389-d341b921e593"/>
+		</Metadata>
+		<Metadata name="DataProcessor.Tests.Form.Form" id="635599bb-3b26-4761-a94c-b970522231bf" configVersion="d65df7d31e5d7d479bb6972c4dafc41a00000000"/>
+		<Metadata name="DataProcessor.Tests.Form.Form.Form" id="635599bb-3b26-4761-a94c-b970522231bf.0" configVersion="199600e0a8794a488eaf7b27b4f3259a00000000"/>
+		<Metadata name="DataProcessor.Tests.ObjectModule" id="20688fe7-fb76-4841-82f1-69e0fc21e4d5.0" configVersion="a9ac0e7bd2ae084cb77835b6fd5d8f5600000000"/>
+		<Metadata name="Language.English" id="a21d7a09-5bac-4e8b-9805-a8f4f17af98f" configVersion="fedcf13051f89149b244fe83795218fc00000000"/>
+		<Metadata name="Language.Русский" id="f58d5f4e-e29f-439e-ae9f-58b2015e0061" configVersion="fa45bbdd0a3c764486bdfda5d68a325600000000"/>
+	</ConfigVersions>
+</ConfigDumpInfo>
